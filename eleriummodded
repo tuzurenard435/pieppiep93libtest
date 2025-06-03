@@ -101,7 +101,7 @@ Label.Size = UDim2.new(0, 200, 0, 20)
 Label.Font = Enum.Font.PatrickHand
 Label.Text = "Hello, world 123"
 Label.TextColor3 = Color3.new(1, 1, 1)
-Label.TextSize = 14
+Label.TextSize = 20
 Label.TextXAlignment = Enum.TextXAlignment.Left
 
 Window.Name = "Window"
@@ -182,7 +182,7 @@ Title.Size = UDim2.new(0, 200, 0, 20)
 Title.Font = Enum.Font.PatrickHand
 Title.Text = "Gamer Time"
 Title.TextColor3 = Color3.new(1, 1, 1)
-Title.TextSize = 14
+Title.TextSize = 20
 Title.TextXAlignment = Enum.TextXAlignment.Left
 
 TabSelection.Name = "TabSelection"
@@ -237,7 +237,7 @@ TextBox.PlaceholderColor3 = Color3.new(0.698039, 0.698039, 0.698039)
 TextBox.PlaceholderText = "Input Text"
 TextBox.Text = ""
 TextBox.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-TextBox.TextSize = 14
+TextBox.TextSize = 20
 
 TextBox_Roundify_4px.Name = "TextBox_Roundify_4px"
 TextBox_Roundify_4px.Parent = TextBox
@@ -270,7 +270,7 @@ Title_2.ZIndex = 2
 Title_2.Font = Enum.Font.PatrickHand
 Title_2.Text = "Slider"
 Title_2.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-Title_2.TextSize = 14
+Title_2.TextSize = 20
 
 Indicator.Name = "Indicator"
 Indicator.Parent = Slider
@@ -291,7 +291,7 @@ Value.Size = UDim2.new(0, 50, 0, 20)
 Value.Font = Enum.Font.PatrickHand
 Value.Text = "0%"
 Value.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-Value.TextSize = 14
+Value.TextSize = 20
 
 TextLabel.Parent = Slider
 TextLabel.BackgroundColor3 = Color3.new(1, 1, 1)
@@ -301,7 +301,7 @@ TextLabel.Size = UDim2.new(0, 26, 0, 50)
 TextLabel.Font = Enum.Font.PatrickHand
 TextLabel.Text = "]"
 TextLabel.TextColor3 = Color3.new(0.627451, 0.627451, 0.627451)
-TextLabel.TextSize = 14
+TextLabel.TextSize = 20
 
 TextLabel_2.Parent = Slider
 TextLabel_2.BackgroundColor3 = Color3.new(1, 1, 1)
@@ -311,7 +311,7 @@ TextLabel_2.Size = UDim2.new(0, 26, 0, 50)
 TextLabel_2.Font = Enum.Font.PatrickHand
 TextLabel_2.Text = "["
 TextLabel_2.TextColor3 = Color3.new(0.627451, 0.627451, 0.627451)
-TextLabel_2.TextSize = 14
+TextLabel_2.TextSize = 20
 
 Circle.Name = "Circle"
 Circle.Parent = Prefabs
@@ -336,7 +336,7 @@ Dropdown.ZIndex = 2
 Dropdown.Font = Enum.Font.PatrickHand
 Dropdown.Text = "      Dropdown"
 Dropdown.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-Dropdown.TextSize = 14
+Dropdown.TextSize = 20
 Dropdown.TextXAlignment = Enum.TextXAlignment.Left
 
 Indicator_2.Name = "Indicator"
@@ -395,7 +395,7 @@ TabButton.ZIndex = 2
 TabButton.Font = Enum.Font.PatrickHand
 TabButton.Text = "Test tab"
 TabButton.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-TabButton.TextSize = 14
+TabButton.TextSize = 20
 
 TextButton_Roundify_4px_2.Name = "TextButton_Roundify_4px"
 TextButton_Roundify_4px_2.Parent = TabButton
@@ -428,7 +428,7 @@ Button.ZIndex = 2
 Button.Font = Enum.Font.PatrickHand
 Button.Text = "      Folder"
 Button.TextColor3 = Color3.new(1, 1, 1)
-Button.TextSize = 14
+Button.TextSize = 20
 Button.TextXAlignment = Enum.TextXAlignment.Left
 
 TextButton_Roundify_4px_3.Name = "TextButton_Roundify_4px"
@@ -693,7 +693,7 @@ Switch.ZIndex = 2
 Switch.Font = Enum.Font.PatrickHand
 Switch.Text = ""
 Switch.TextColor3 = Color3.new(1, 1, 1)
-Switch.TextSize = 18
+Switch.TextSize = 24
 
 TextButton_Roundify_4px_4.Name = "TextButton_Roundify_4px"
 TextButton_Roundify_4px_4.Parent = Switch
@@ -715,7 +715,7 @@ Title_3.Size = UDim2.new(0, 20, 0, 20)
 Title_3.Font = Enum.Font.PatrickHand
 Title_3.Text = "Switch"
 Title_3.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-Title_3.TextSize = 14
+Title_3.TextSize = 20
 Title_3.TextXAlignment = Enum.TextXAlignment.Left
 
 Button_2.Name = "Button"
@@ -727,7 +727,7 @@ Button_2.Size = UDim2.new(0, 91, 0, 20)
 Button_2.ZIndex = 2
 Button_2.Font = Enum.Font.PatrickHand
 Button_2.TextColor3 = Color3.new(1, 1, 1)
-Button_2.TextSize = 14
+Button_2.TextSize = 20
 
 TextButton_Roundify_4px_5.Name = "TextButton_Roundify_4px"
 TextButton_Roundify_4px_5.Parent = Button_2
@@ -748,7 +748,7 @@ DropdownButton.ZIndex = 3
 DropdownButton.Font = Enum.Font.PatrickHand
 DropdownButton.Text = "      Button"
 DropdownButton.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-DropdownButton.TextSize = 14
+DropdownButton.TextSize = 20
 DropdownButton.TextXAlignment = Enum.TextXAlignment.Left
 
 Keybind.Name = "Keybind"
@@ -769,7 +769,7 @@ Title_4.Size = UDim2.new(0, 0, 1, 0)
 Title_4.Font = Enum.Font.PatrickHand
 Title_4.Text = "Keybind"
 Title_4.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-Title_4.TextSize = 14
+Title_4.TextSize = 20
 Title_4.TextXAlignment = Enum.TextXAlignment.Left
 
 Input.Name = "Input"
@@ -783,7 +783,7 @@ Input.ZIndex = 2
 Input.Font = Enum.Font.PatrickHand
 Input.Text = "RShift"
 Input.TextColor3 = Color3.new(0.784314, 0.784314, 0.784314)
-Input.TextSize = 12
+Input.TextSize = 18
 Input.TextWrapped = true
 
 Input_Roundify_4px.Name = "Input_Roundify_4px"
